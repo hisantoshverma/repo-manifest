@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <remote fetch="https://github.com/hisantoshverma" name="origin"/>
+ <default remote="origin" sync-j="4" revision="master/>"
+ 
+ <project name="protobuf-example-go" path="protobuf"/>
+ <project name="aws-ecr-cleanup" path="aws"/>
+ 
+ </manifest>
